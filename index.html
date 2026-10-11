@@ -192,13 +192,13 @@
 
   footer { text-align:center; font-family:var(--mono); font-size:11px; color:var(--text-dim); margin-top:30px; line-height:1.7; }
 
-  /* entrance */
-  .rise { opacity:0; transform:translateY(10px); animation:rise .5s cubic-bezier(.2,.7,.2,1) forwards; }
-  @keyframes rise { to { opacity:1; transform:none; } }
-  .swap { animation:swap .32s cubic-bezier(.2,.7,.2,1); }
-  @keyframes swap { from { opacity:.0; transform:translateX(var(--dx,14px)); } to { opacity:1; transform:none; } }
+  /* entrance: content is visible by default; the animation only adds a fade-in on top */
+  .rise { animation:rise .5s cubic-bezier(.2,.7,.2,1) both; }
+  @keyframes rise { from { opacity:0; transform:translateY(10px); } }
+  .swap { animation:swap .32s cubic-bezier(.2,.7,.2,1) both; }
+  @keyframes swap { from { opacity:0; transform:translateX(var(--dx,14px)); } }
   @media (prefers-reduced-motion: reduce) {
-    .rise, .swap { animation:none; opacity:1; transform:none; }
+    .rise, .swap { animation:none; }
     .cursor { animation:none; }
   }
 </style>
