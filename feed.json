@@ -10,12 +10,52 @@
    "date": "2026-10-10"
   },
   {
+   "title": "Join Platform Engineering Day at KubeCon + CloudNativeCon North America 2026",
+   "url": "https://www.cncf.io/blog/2026/10/09/join-platform-engineering-day-at-kubecon-cloudnativecon-north-america-2026/",
+   "source": "CNCF Blog",
+   "category": "k8s",
+   "kind": "news",
+   "date": "2026-10-09"
+  },
+  {
+   "title": "Making the Golden Kubestronaut a little more golden",
+   "url": "https://www.cncf.io/blog/2026/10/09/making-the-golden-kubestronaut-a-little-more-golden/",
+   "source": "CNCF Blog",
+   "category": "k8s",
+   "kind": "news",
+   "date": "2026-10-09"
+  },
+  {
+   "title": "Who owns NIS2 and DORA on a Kubernetes platform team",
+   "url": "https://www.cncf.io/blog/2026/10/09/who-owns-nis2-and-dora-on-a-kubernetes-platform-team/",
+   "source": "CNCF Blog",
+   "category": "k8s",
+   "kind": "news",
+   "date": "2026-10-09"
+  },
+  {
+   "title": "AWS Security Hub now exports findings to S3 in CSV or JSON format",
+   "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-exports-s3-csv-json/",
+   "source": "AWS What's New",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-10-09"
+  },
+  {
    "title": "K8sGPT v0.4.40",
    "url": "https://github.com/k8sgpt-ai/k8sgpt/releases/tag/v0.4.40",
    "source": "K8sGPT",
    "category": "ai",
    "kind": "release",
    "date": "2026-10-09"
+  },
+  {
+   "title": "Amazon GuardDuty RDS Protection now detects data exfiltration and destruction in Aurora and RDS databases",
+   "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/",
+   "source": "AWS What's New",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-10-08"
   },
   {
    "title": "Argo CD v3.5.4",
@@ -40,6 +80,54 @@
    "category": "cicd",
    "kind": "release",
    "date": "2026-10-07"
+  },
+  {
+   "title": "Configuring your AI vulnerability harness, Part 2: The steering file",
+   "url": "https://aws.amazon.com/blogs/security/configuring-your-ai-vulnerability-harness-part-2-the-steering-file/",
+   "source": "AWS Security Blog",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-10-07"
+  },
+  {
+   "title": "Building your AI vulnerability harness, Part 1",
+   "url": "https://aws.amazon.com/blogs/security/building-your-ai-vulnerability-harness-part-1/",
+   "source": "AWS Security Blog",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-10-07"
+  },
+  {
+   "title": "Part 1 – Cybersecurity journeys: I didn’t plan this",
+   "url": "https://aws.amazon.com/blogs/security/part-1-cybersecurity-journeys-i-didnt-plan-this/",
+   "source": "AWS Security Blog",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-10-07"
+  },
+  {
+   "title": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
+   "url": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/",
+   "source": "Kubernetes Blog",
+   "category": "k8s",
+   "kind": "news",
+   "date": "2026-10-06"
+  },
+  {
+   "title": "AWS Batch now publishes job metrics to Amazon CloudWatch",
+   "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-batch-job-cloudwatch-metrics/",
+   "source": "AWS What's New",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-10-06"
+  },
+  {
+   "title": "Scaling Kubernetes Workloads with Node Swap",
+   "url": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/",
+   "source": "Kubernetes Blog",
+   "category": "k8s",
+   "kind": "news",
+   "date": "2026-10-05"
   },
   {
    "title": "OpenTofu v1.13.1",
@@ -90,6 +178,14 @@
    "date": "2026-09-29"
   },
   {
+   "title": "Terraform 1.16 completes Actions lifecycles and brings imports into child modules",
+   "url": "https://www.hashicorp.com/blog/terraform-116-completes-actions-lifecycles-and-brings-imports-into-child-modules",
+   "source": "HashiCorp Blog",
+   "category": "iac",
+   "kind": "news",
+   "date": "2026-09-28"
+  },
+  {
    "title": "Backstage v1.55.2",
    "url": "https://github.com/backstage/backstage/releases/tag/v1.55.2",
    "source": "Backstage",
@@ -106,6 +202,22 @@
    "date": "2026-09-25"
   },
   {
+   "title": "Terraform provider for Google Cloud 8.0 now generally available",
+   "url": "https://www.hashicorp.com/blog/terraform-provider-for-google-cloud-80-now-generally-available",
+   "source": "HashiCorp Blog",
+   "category": "iac",
+   "kind": "news",
+   "date": "2026-09-23"
+  },
+  {
+   "title": "Spotlight on SIG Apps",
+   "url": "https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/",
+   "source": "Kubernetes Blog",
+   "category": "k8s",
+   "kind": "news",
+   "date": "2026-09-22"
+  },
+  {
    "title": "Crossplane v2.4.2",
    "url": "https://github.com/crossplane/crossplane/releases/tag/v2.4.2",
    "source": "Crossplane",
@@ -120,6 +232,14 @@
    "category": "sec",
    "kind": "release",
    "date": "2026-09-21"
+  },
+  {
+   "title": "Simplify compliance with the native pre-written policy experience in HCP Terraform",
+   "url": "https://www.hashicorp.com/blog/simplify-compliance-with-a-native-pre-written-policy-experience-in-terraform",
+   "source": "HashiCorp Blog",
+   "category": "iac",
+   "kind": "news",
+   "date": "2026-09-17"
   },
   {
    "title": "Cilium 1.20.2",
