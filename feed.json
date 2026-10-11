@@ -1,0 +1,197 @@
+{
+ "updated": "2026-10-11",
+ "items": [
+  {
+   "title": "Karpenter v1.15.0",
+   "url": "https://github.com/kubernetes-sigs/karpenter/releases/tag/v1.15.0",
+   "source": "Karpenter",
+   "category": "k8s",
+   "kind": "release",
+   "date": "2026-10-10"
+  },
+  {
+   "title": "K8sGPT v0.4.40",
+   "url": "https://github.com/k8sgpt-ai/k8sgpt/releases/tag/v0.4.40",
+   "source": "K8sGPT",
+   "category": "ai",
+   "kind": "release",
+   "date": "2026-10-09"
+  },
+  {
+   "title": "Argo CD v3.5.4",
+   "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.5.4",
+   "source": "Argo CD",
+   "category": "cicd",
+   "kind": "release",
+   "date": "2026-10-07"
+  },
+  {
+   "title": "Argo CD v3.4.10",
+   "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.4.10",
+   "source": "Argo CD",
+   "category": "cicd",
+   "kind": "release",
+   "date": "2026-10-07"
+  },
+  {
+   "title": "Argo CD v3.3.15",
+   "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.3.15",
+   "source": "Argo CD",
+   "category": "cicd",
+   "kind": "release",
+   "date": "2026-10-07"
+  },
+  {
+   "title": "OpenTofu v1.13.1",
+   "url": "https://github.com/opentofu/opentofu/releases/tag/v1.13.1",
+   "source": "OpenTofu",
+   "category": "iac",
+   "kind": "release",
+   "date": "2026-10-01"
+  },
+  {
+   "title": "OpenTofu v1.12.7",
+   "url": "https://github.com/opentofu/opentofu/releases/tag/v1.12.7",
+   "source": "OpenTofu",
+   "category": "iac",
+   "kind": "release",
+   "date": "2026-10-01"
+  },
+  {
+   "title": "Flux v2.9.6",
+   "url": "https://github.com/fluxcd/flux2/releases/tag/v2.9.6",
+   "source": "Flux",
+   "category": "cicd",
+   "kind": "release",
+   "date": "2026-10-01"
+  },
+  {
+   "title": "Trivy v0.75.0",
+   "url": "https://github.com/aquasecurity/trivy/releases/tag/v0.75.0",
+   "source": "Trivy",
+   "category": "sec",
+   "kind": "release",
+   "date": "2026-10-01"
+  },
+  {
+   "title": "OpenTofu v1.13.0",
+   "url": "https://github.com/opentofu/opentofu/releases/tag/v1.13.0",
+   "source": "OpenTofu",
+   "category": "iac",
+   "kind": "release",
+   "date": "2026-09-30"
+  },
+  {
+   "title": "Backstage v1.55.3",
+   "url": "https://github.com/backstage/backstage/releases/tag/v1.55.3",
+   "source": "Backstage",
+   "category": "platform",
+   "kind": "release",
+   "date": "2026-09-29"
+  },
+  {
+   "title": "Backstage v1.55.2",
+   "url": "https://github.com/backstage/backstage/releases/tag/v1.55.2",
+   "source": "Backstage",
+   "category": "platform",
+   "kind": "release",
+   "date": "2026-09-25"
+  },
+  {
+   "title": "Backstage v1.54.9",
+   "url": "https://github.com/backstage/backstage/releases/tag/v1.54.9",
+   "source": "Backstage",
+   "category": "platform",
+   "kind": "release",
+   "date": "2026-09-25"
+  },
+  {
+   "title": "Crossplane v2.4.2",
+   "url": "https://github.com/crossplane/crossplane/releases/tag/v2.4.2",
+   "source": "Crossplane",
+   "category": "iac",
+   "kind": "release",
+   "date": "2026-09-22"
+  },
+  {
+   "title": "Falco 0.45.0",
+   "url": "https://github.com/falcosecurity/falco/releases/tag/0.45.0",
+   "source": "Falco",
+   "category": "sec",
+   "kind": "release",
+   "date": "2026-09-21"
+  },
+  {
+   "title": "Cilium 1.20.2",
+   "url": "https://github.com/cilium/cilium/releases/tag/v1.20.2",
+   "source": "Cilium",
+   "category": "sec",
+   "kind": "release",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "Cilium 1.19.8",
+   "url": "https://github.com/cilium/cilium/releases/tag/v1.19.8",
+   "source": "Cilium",
+   "category": "sec",
+   "kind": "release",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "Cilium 1.18.14",
+   "url": "https://github.com/cilium/cilium/releases/tag/v1.18.14",
+   "source": "Cilium",
+   "category": "sec",
+   "kind": "release",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "Crossplane v2.4.1",
+   "url": "https://github.com/crossplane/crossplane/releases/tag/v2.4.1",
+   "source": "Crossplane",
+   "category": "iac",
+   "kind": "release",
+   "date": "2026-09-15"
+  },
+  {
+   "title": "Crossplane v2.3.6",
+   "url": "https://github.com/crossplane/crossplane/releases/tag/v2.3.6",
+   "source": "Crossplane",
+   "category": "iac",
+   "kind": "release",
+   "date": "2026-09-15"
+  },
+  {
+   "title": "K8sGPT v0.4.39",
+   "url": "https://github.com/k8sgpt-ai/k8sgpt/releases/tag/v0.4.39",
+   "source": "K8sGPT",
+   "category": "ai",
+   "kind": "release",
+   "date": "2026-09-14"
+  },
+  {
+   "title": "Kyverno v1.19.1",
+   "url": "https://github.com/kyverno/kyverno/releases/tag/v1.19.1",
+   "source": "Kyverno",
+   "category": "sec",
+   "kind": "release",
+   "date": "2026-09-10"
+  },
+  {
+   "title": "K8sGPT v0.4.38",
+   "url": "https://github.com/k8sgpt-ai/k8sgpt/releases/tag/v0.4.38",
+   "source": "K8sGPT",
+   "category": "ai",
+   "kind": "release",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "Flux v2.9.5",
+   "url": "https://github.com/fluxcd/flux2/releases/tag/v2.9.5",
+   "source": "Flux",
+   "category": "cicd",
+   "kind": "release",
+   "date": "2026-08-31"
+  }
+ ]
+}
