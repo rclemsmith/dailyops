@@ -1,6 +1,198 @@
 {
- "updated": "2026-10-12",
+ "updated": "2026-10-19",
  "items": [
+  {
+   "title": "Deploying, maintaining, and migrating production n8n on EKS",
+   "url": "https://www.cncf.io/blog/2026/10/16/deploying-maintaining-and-migrating-production-n8n-on-eks/",
+   "source": "CNCF Blog",
+   "category": "k8s",
+   "kind": "news",
+   "date": "2026-10-16"
+  },
+  {
+   "title": "Putting Nepal on the CNCF Golden Kubestronaut map",
+   "url": "https://www.cncf.io/blog/2026/10/16/putting-nepal-on-the-cncf-golden-kubestronaut-map/",
+   "source": "CNCF Blog",
+   "category": "k8s",
+   "kind": "news",
+   "date": "2026-10-16"
+  },
+  {
+   "title": "Karpenter v1.14.2",
+   "url": "https://github.com/kubernetes-sigs/karpenter/releases/tag/v1.14.2",
+   "source": "Karpenter",
+   "category": "k8s",
+   "kind": "release",
+   "date": "2026-10-16"
+  },
+  {
+   "title": "Xcode 27 runner image generally available",
+   "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
+   "source": "GitHub Changelog",
+   "category": "cicd",
+   "kind": "news",
+   "date": "2026-10-16"
+  },
+  {
+   "title": "Amazon CloudWatch log centralization now available in AWS GovCloud and additional commercial Regions",
+   "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-centralization-region-expansion",
+   "source": "AWS What's New",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-10-16"
+  },
+  {
+   "title": "Carbon as a first-class signal: Bringing software carbon intensity to OpenTelemetry",
+   "url": "https://www.cncf.io/blog/2026/10/15/carbon-as-a-first-class-signal-bringing-software-carbon-intensity-to-opentelemetry/",
+   "source": "CNCF Blog",
+   "category": "k8s",
+   "kind": "news",
+   "date": "2026-10-15"
+  },
+  {
+   "title": "AWS Security Agent (now part of AWS Continuum) exploited 33 of 37 new real-world CVEs",
+   "url": "https://aws.amazon.com/blogs/security/aws-security-agent-now-part-of-aws-continuum-exploited-33-of-37-new-real-world-cves/",
+   "source": "AWS Security Blog",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-10-15"
+  },
+  {
+   "title": "AWS Security Hub CSPM now supports the Cyber Risk Institute profile version 2.2",
+   "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-cspm-cri-profile-v22/",
+   "source": "AWS What's New",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-10-15"
+  },
+  {
+   "title": "Cilium 1.20.3",
+   "url": "https://github.com/cilium/cilium/releases/tag/1.20.3",
+   "source": "Cilium",
+   "category": "sec",
+   "kind": "release",
+   "date": "2026-10-15"
+  },
+  {
+   "title": "Cilium 1.19.9",
+   "url": "https://github.com/cilium/cilium/releases/tag/1.19.9",
+   "source": "Cilium",
+   "category": "sec",
+   "kind": "release",
+   "date": "2026-10-15"
+  },
+  {
+   "title": "Cilium 1.18.15",
+   "url": "https://github.com/cilium/cilium/releases/tag/1.18.15",
+   "source": "Cilium",
+   "category": "sec",
+   "kind": "release",
+   "date": "2026-10-15"
+  },
+  {
+   "title": "Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp",
+   "url": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/",
+   "source": "Kubernetes Blog",
+   "category": "k8s",
+   "kind": "news",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "OpenTofu v1.12.8",
+   "url": "https://github.com/opentofu/opentofu/releases/tag/v1.12.8",
+   "source": "OpenTofu",
+   "category": "iac",
+   "kind": "release",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "GitHub Actions workflow lockfiles in public preview",
+   "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+   "source": "GitHub Changelog",
+   "category": "cicd",
+   "kind": "news",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "Penetration testing every deployment with AWS Continuum",
+   "url": "https://aws.amazon.com/blogs/security/penetration-testing-every-deployment-with-aws-continuum/",
+   "source": "AWS Security Blog",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "Amazon CloudWatch announces log routing and chained log parsers",
+   "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudwatch-pipelines-log-routing/",
+   "source": "AWS What's New",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "Trivy v0.76.0",
+   "url": "https://github.com/aquasecurity/trivy/releases/tag/v0.76.0",
+   "source": "Trivy",
+   "category": "sec",
+   "kind": "release",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "Part 2 – Cybersecurity journeys: What even is this job?",
+   "url": "https://aws.amazon.com/blogs/security/part-2-cybersecurity-journeys-what-even-is-this-job/",
+   "source": "AWS Security Blog",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-10-13"
+  },
+  {
+   "title": "Argo CD v3.5.5",
+   "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.5.5",
+   "source": "Argo CD",
+   "category": "cicd",
+   "kind": "release",
+   "date": "2026-10-12"
+  },
+  {
+   "title": "Argo CD v3.4.11",
+   "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.4.11",
+   "source": "Argo CD",
+   "category": "cicd",
+   "kind": "release",
+   "date": "2026-10-12"
+  },
+  {
+   "title": "Argo CD v3.3.16",
+   "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.3.16",
+   "source": "Argo CD",
+   "category": "cicd",
+   "kind": "release",
+   "date": "2026-10-12"
+  },
+  {
+   "title": "Argo Rollouts v1.10.1",
+   "url": "https://github.com/argoproj/argo-rollouts/releases/tag/v1.10.1",
+   "source": "Argo Rollouts",
+   "category": "cicd",
+   "kind": "release",
+   "date": "2026-10-12"
+  },
+  {
+   "title": "Argo Rollouts v1.9.2",
+   "url": "https://github.com/argoproj/argo-rollouts/releases/tag/v1.9.2",
+   "source": "Argo Rollouts",
+   "category": "cicd",
+   "kind": "release",
+   "date": "2026-10-12"
+  },
+  {
+   "title": "Argo Rollouts v1.8.5",
+   "url": "https://github.com/argoproj/argo-rollouts/releases/tag/v1.8.5",
+   "source": "Argo Rollouts",
+   "category": "cicd",
+   "kind": "release",
+   "date": "2026-10-12"
+  },
   {
    "title": "Karpenter v1.15.0",
    "url": "https://github.com/kubernetes-sigs/karpenter/releases/tag/v1.15.0",
@@ -8,38 +200,6 @@
    "category": "k8s",
    "kind": "release",
    "date": "2026-10-10"
-  },
-  {
-   "title": "Join Platform Engineering Day at KubeCon + CloudNativeCon North America 2026",
-   "url": "https://www.cncf.io/blog/2026/10/09/join-platform-engineering-day-at-kubecon-cloudnativecon-north-america-2026/",
-   "source": "CNCF Blog",
-   "category": "k8s",
-   "kind": "news",
-   "date": "2026-10-09"
-  },
-  {
-   "title": "Making the Golden Kubestronaut a little more golden",
-   "url": "https://www.cncf.io/blog/2026/10/09/making-the-golden-kubestronaut-a-little-more-golden/",
-   "source": "CNCF Blog",
-   "category": "k8s",
-   "kind": "news",
-   "date": "2026-10-09"
-  },
-  {
-   "title": "Who owns NIS2 and DORA on a Kubernetes platform team",
-   "url": "https://www.cncf.io/blog/2026/10/09/who-owns-nis2-and-dora-on-a-kubernetes-platform-team/",
-   "source": "CNCF Blog",
-   "category": "k8s",
-   "kind": "news",
-   "date": "2026-10-09"
-  },
-  {
-   "title": "AWS Security Hub now exports findings to S3 in CSV or JSON format",
-   "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-exports-s3-csv-json/",
-   "source": "AWS What's New",
-   "category": "aws",
-   "kind": "news",
-   "date": "2026-10-09"
   },
   {
    "title": "K8sGPT v0.4.40",
@@ -50,74 +210,10 @@
    "date": "2026-10-09"
   },
   {
-   "title": "Amazon GuardDuty RDS Protection now detects data exfiltration and destruction in Aurora and RDS databases",
-   "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/",
-   "source": "AWS What's New",
-   "category": "aws",
-   "kind": "news",
-   "date": "2026-10-08"
-  },
-  {
-   "title": "Argo CD v3.5.4",
-   "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.5.4",
-   "source": "Argo CD",
-   "category": "cicd",
-   "kind": "release",
-   "date": "2026-10-07"
-  },
-  {
-   "title": "Argo CD v3.4.10",
-   "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.4.10",
-   "source": "Argo CD",
-   "category": "cicd",
-   "kind": "release",
-   "date": "2026-10-07"
-  },
-  {
-   "title": "Argo CD v3.3.15",
-   "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.3.15",
-   "source": "Argo CD",
-   "category": "cicd",
-   "kind": "release",
-   "date": "2026-10-07"
-  },
-  {
-   "title": "Configuring your AI vulnerability harness, Part 2: The steering file",
-   "url": "https://aws.amazon.com/blogs/security/configuring-your-ai-vulnerability-harness-part-2-the-steering-file/",
-   "source": "AWS Security Blog",
-   "category": "aws",
-   "kind": "news",
-   "date": "2026-10-07"
-  },
-  {
-   "title": "Building your AI vulnerability harness, Part 1",
-   "url": "https://aws.amazon.com/blogs/security/building-your-ai-vulnerability-harness-part-1/",
-   "source": "AWS Security Blog",
-   "category": "aws",
-   "kind": "news",
-   "date": "2026-10-07"
-  },
-  {
-   "title": "Part 1 – Cybersecurity journeys: I didn’t plan this",
-   "url": "https://aws.amazon.com/blogs/security/part-1-cybersecurity-journeys-i-didnt-plan-this/",
-   "source": "AWS Security Blog",
-   "category": "aws",
-   "kind": "news",
-   "date": "2026-10-07"
-  },
-  {
    "title": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
    "url": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/",
    "source": "Kubernetes Blog",
    "category": "k8s",
-   "kind": "news",
-   "date": "2026-10-06"
-  },
-  {
-   "title": "AWS Batch now publishes job metrics to Amazon CloudWatch",
-   "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-batch-job-cloudwatch-metrics/",
-   "source": "AWS What's New",
-   "category": "aws",
    "kind": "news",
    "date": "2026-10-06"
   },
@@ -162,14 +258,6 @@
    "date": "2026-10-01"
   },
   {
-   "title": "OpenTofu v1.13.0",
-   "url": "https://github.com/opentofu/opentofu/releases/tag/v1.13.0",
-   "source": "OpenTofu",
-   "category": "iac",
-   "kind": "release",
-   "date": "2026-09-30"
-  },
-  {
    "title": "Backstage v1.55.3",
    "url": "https://github.com/backstage/backstage/releases/tag/v1.55.3",
    "source": "Backstage",
@@ -210,14 +298,6 @@
    "date": "2026-09-23"
   },
   {
-   "title": "Spotlight on SIG Apps",
-   "url": "https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/",
-   "source": "Kubernetes Blog",
-   "category": "k8s",
-   "kind": "news",
-   "date": "2026-09-22"
-  },
-  {
    "title": "Crossplane v2.4.2",
    "url": "https://github.com/crossplane/crossplane/releases/tag/v2.4.2",
    "source": "Crossplane",
@@ -240,30 +320,6 @@
    "category": "iac",
    "kind": "news",
    "date": "2026-09-17"
-  },
-  {
-   "title": "Cilium 1.20.2",
-   "url": "https://github.com/cilium/cilium/releases/tag/v1.20.2",
-   "source": "Cilium",
-   "category": "sec",
-   "kind": "release",
-   "date": "2026-09-16"
-  },
-  {
-   "title": "Cilium 1.19.8",
-   "url": "https://github.com/cilium/cilium/releases/tag/v1.19.8",
-   "source": "Cilium",
-   "category": "sec",
-   "kind": "release",
-   "date": "2026-09-16"
-  },
-  {
-   "title": "Cilium 1.18.14",
-   "url": "https://github.com/cilium/cilium/releases/tag/v1.18.14",
-   "source": "Cilium",
-   "category": "sec",
-   "kind": "release",
-   "date": "2026-09-16"
   },
   {
    "title": "Crossplane v2.4.1",
@@ -296,22 +352,6 @@
    "category": "sec",
    "kind": "release",
    "date": "2026-09-10"
-  },
-  {
-   "title": "K8sGPT v0.4.38",
-   "url": "https://github.com/k8sgpt-ai/k8sgpt/releases/tag/v0.4.38",
-   "source": "K8sGPT",
-   "category": "ai",
-   "kind": "release",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "Flux v2.9.5",
-   "url": "https://github.com/fluxcd/flux2/releases/tag/v2.9.5",
-   "source": "Flux",
-   "category": "cicd",
-   "kind": "release",
-   "date": "2026-08-31"
   }
  ]
 }
