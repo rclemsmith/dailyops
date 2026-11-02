@@ -1,13 +1,133 @@
 {
- "updated": "2026-10-26",
+ "updated": "2026-11-02",
  "items": [
   {
-   "title": "Multi-tenant GPU Kubernetes on simulated hardware with Kamaji and HAMi",
-   "url": "https://www.cncf.io/blog/2026/10/23/multi-tenant-gpu-kubernetes-on-simulated-hardware-with-kamaji-and-hami/",
+   "title": "Inside a successful AWS European Sovereign Cloud exercise to demonstrate independent operation",
+   "url": "https://aws.amazon.com/blogs/security/inside-a-successful-aws-european-sovereign-cloud-exercise-to-demonstrate-independent-operation/",
+   "source": "AWS Security Blog",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-11-02"
+  },
+  {
+   "title": "KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips",
+   "url": "https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips/",
    "source": "CNCF Blog",
    "category": "k8s",
    "kind": "news",
-   "date": "2026-10-23"
+   "date": "2026-10-30"
+  },
+  {
+   "title": "From Working Group to SIG Architecture: spotlight on AI Conformance",
+   "url": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/",
+   "source": "Kubernetes Blog",
+   "category": "k8s",
+   "kind": "news",
+   "date": "2026-10-29"
+  },
+  {
+   "title": "The boundary problem in agentic AI is a platform problem",
+   "url": "https://www.cncf.io/blog/2026/10/29/the-boundary-problem-in-agentic-ai-is-a-platform-problem/",
+   "source": "CNCF Blog",
+   "category": "k8s",
+   "kind": "news",
+   "date": "2026-10-29"
+  },
+  {
+   "title": "OpenTofu v1.13.5",
+   "url": "https://github.com/opentofu/opentofu/releases/tag/v1.13.5",
+   "source": "OpenTofu",
+   "category": "iac",
+   "kind": "release",
+   "date": "2026-10-29"
+  },
+  {
+   "title": "OpenTofu v1.13.4",
+   "url": "https://github.com/opentofu/opentofu/releases/tag/v1.13.4",
+   "source": "OpenTofu",
+   "category": "iac",
+   "kind": "release",
+   "date": "2026-10-29"
+  },
+  {
+   "title": "OpenTofu v1.13.3",
+   "url": "https://github.com/opentofu/opentofu/releases/tag/v1.13.3",
+   "source": "OpenTofu",
+   "category": "iac",
+   "kind": "release",
+   "date": "2026-10-29"
+  },
+  {
+   "title": "Falco 0.45.2",
+   "url": "https://github.com/falcosecurity/falco/releases/tag/0.45.2",
+   "source": "Falco",
+   "category": "sec",
+   "kind": "release",
+   "date": "2026-10-29"
+  },
+  {
+   "title": "Volcano v1.16 Released: NamespaceQueue, fairshare, and a broader HyperNode ecosystem",
+   "url": "https://www.cncf.io/blog/2026/10/28/volcano-v1-16-released-namespacequeue-fairshare-and-a-broader-hypernode-ecosystem/",
+   "source": "CNCF Blog",
+   "category": "k8s",
+   "kind": "news",
+   "date": "2026-10-28"
+  },
+  {
+   "title": "Build shared workflows for your team with Copilot Automations",
+   "url": "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations",
+   "source": "GitHub Changelog",
+   "category": "cicd",
+   "kind": "news",
+   "date": "2026-10-28"
+  },
+  {
+   "title": "AWS IAM Identity Center's Identity Store now supports change notifications through Amazon EventBridge",
+   "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-change-notifications/",
+   "source": "AWS What's New",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-10-28"
+  },
+  {
+   "title": "Announcing the Workload Conformance Working Group",
+   "url": "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/",
+   "source": "Kubernetes Blog",
+   "category": "k8s",
+   "kind": "news",
+   "date": "2026-10-27"
+  },
+  {
+   "title": "Introducing Route 53 Resolved IP Validation for AWS Network Firewall",
+   "url": "https://aws.amazon.com/blogs/security/introducing-route-53-resolved-ip-validation-for-aws-network-firewall/",
+   "source": "AWS Security Blog",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-10-27"
+  },
+  {
+   "title": "AWS becomes first CSP to complete the Cloud High profile assessment with 172 services and features in scope",
+   "url": "https://aws.amazon.com/blogs/security/aws-becomes-first-csp-to-complete-the-cloud-high-profile-assessment-with-172-services-and-features-in-scope/",
+   "source": "AWS Security Blog",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-10-27"
+  },
+  {
+   "title": "Flux v2.10.0",
+   "url": "https://github.com/fluxcd/flux2/releases/tag/v2.10.0",
+   "source": "Flux",
+   "category": "cicd",
+   "kind": "release",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "AWS IAM Identity Center now supports cross-Region trusted identity propagation",
+   "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-iam-identity-center-cross-region-tip/",
+   "source": "AWS What's New",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-10-26"
   },
   {
    "title": "Karpenter v1.15.1",
@@ -58,14 +178,6 @@
    "date": "2026-10-23"
   },
   {
-   "title": "Filtering and reducing AI agent telemetry with the OpenTelemetry Collector",
-   "url": "https://www.cncf.io/blog/2026/10/22/filtering-and-reducing-ai-agent-telemetry-with-the-opentelemetry-collector/",
-   "source": "CNCF Blog",
-   "category": "k8s",
-   "kind": "news",
-   "date": "2026-10-22"
-  },
-  {
    "title": "Crossplane v2.4.3",
    "url": "https://github.com/crossplane/crossplane/releases/tag/v2.4.3",
    "source": "Crossplane",
@@ -90,27 +202,11 @@
    "date": "2026-10-22"
   },
   {
-   "title": "Meta API endpoints updated for Actions blob storage",
-   "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
-   "source": "GitHub Changelog",
-   "category": "cicd",
-   "kind": "news",
-   "date": "2026-10-22"
-  },
-  {
    "title": "Argo CD v3.3.18",
    "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.3.18",
    "source": "Argo CD",
    "category": "cicd",
    "kind": "release",
-   "date": "2026-10-22"
-  },
-  {
-   "title": "Using AWS WAF to apply mitigations for PHP2Shell RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619)",
-   "url": "https://aws.amazon.com/blogs/security/using-aws-waf-to-apply-mitigations-for-php2shell-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619/",
-   "source": "AWS Security Blog",
-   "category": "aws",
-   "kind": "news",
    "date": "2026-10-22"
   },
   {
@@ -120,30 +216,6 @@
    "category": "platform",
    "kind": "release",
    "date": "2026-10-22"
-  },
-  {
-   "title": "Before you evaluate an AI SRE, give your existing agent context",
-   "url": "https://www.cncf.io/blog/2026/10/21/before-you-evaluate-an-ai-sre-give-your-existing-agent-context/",
-   "source": "CNCF Blog",
-   "category": "k8s",
-   "kind": "news",
-   "date": "2026-10-21"
-  },
-  {
-   "title": "OpenTofu v1.13.2",
-   "url": "https://github.com/opentofu/opentofu/releases/tag/v1.13.2",
-   "source": "OpenTofu",
-   "category": "iac",
-   "kind": "release",
-   "date": "2026-10-21"
-  },
-  {
-   "title": "OpenTofu v1.12.9",
-   "url": "https://github.com/opentofu/opentofu/releases/tag/v1.12.9",
-   "source": "OpenTofu",
-   "category": "iac",
-   "kind": "release",
-   "date": "2026-10-21"
   },
   {
    "title": "Argo CD v3.4.12",
@@ -159,22 +231,6 @@
    "source": "Argo CD",
    "category": "cicd",
    "kind": "release",
-   "date": "2026-10-21"
-  },
-  {
-   "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot",
-   "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
-   "source": "AWS Security Blog",
-   "category": "aws",
-   "kind": "news",
-   "date": "2026-10-21"
-  },
-  {
-   "title": "Best practices for integrating IAM Roles Anywhere with your PKI",
-   "url": "https://aws.amazon.com/blogs/security/best-practices-for-integrating-iam-roles-anywhere-with-your-pki/",
-   "source": "AWS Security Blog",
-   "category": "aws",
-   "kind": "news",
    "date": "2026-10-21"
   },
   {
@@ -218,22 +274,6 @@
    "date": "2026-10-21"
   },
   {
-   "title": "AWS IAM Identity Center simplifies identity source changes from Active Directory",
-   "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-center-chg-id-src-from-ad/",
-   "source": "AWS What's New",
-   "category": "aws",
-   "kind": "news",
-   "date": "2026-10-20"
-  },
-  {
-   "title": "Amazon CloudWatch Alarms now supports tags in alarm actions payload",
-   "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-tags-on-alarm-actions-payload",
-   "source": "AWS What's New",
-   "category": "aws",
-   "kind": "news",
-   "date": "2026-10-20"
-  },
-  {
    "title": "Cosign v3.1.4",
    "url": "https://github.com/sigstore/cosign/releases/tag/v3.1.4",
    "source": "Cosign",
@@ -263,14 +303,6 @@
    "source": "Kubernetes Blog",
    "category": "k8s",
    "kind": "news",
-   "date": "2026-10-14"
-  },
-  {
-   "title": "OpenTofu v1.12.8",
-   "url": "https://github.com/opentofu/opentofu/releases/tag/v1.12.8",
-   "source": "OpenTofu",
-   "category": "iac",
-   "kind": "release",
    "date": "2026-10-14"
   },
   {
@@ -314,22 +346,6 @@
    "date": "2026-10-09"
   },
   {
-   "title": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
-   "url": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/",
-   "source": "Kubernetes Blog",
-   "category": "k8s",
-   "kind": "news",
-   "date": "2026-10-06"
-  },
-  {
-   "title": "Scaling Kubernetes Workloads with Node Swap",
-   "url": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/",
-   "source": "Kubernetes Blog",
-   "category": "k8s",
-   "kind": "news",
-   "date": "2026-10-05"
-  },
-  {
    "title": "Flux v2.9.6",
    "url": "https://github.com/fluxcd/flux2/releases/tag/v2.9.6",
    "source": "Flux",
@@ -368,22 +384,6 @@
    "category": "sec",
    "kind": "release",
    "date": "2026-09-21"
-  },
-  {
-   "title": "Simplify compliance with the native pre-written policy experience in HCP Terraform",
-   "url": "https://www.hashicorp.com/blog/simplify-compliance-with-a-native-pre-written-policy-experience-in-terraform",
-   "source": "HashiCorp Blog",
-   "category": "iac",
-   "kind": "news",
-   "date": "2026-09-17"
-  },
-  {
-   "title": "K8sGPT v0.4.39",
-   "url": "https://github.com/k8sgpt-ai/k8sgpt/releases/tag/v0.4.39",
-   "source": "K8sGPT",
-   "category": "ai",
-   "kind": "release",
-   "date": "2026-09-14"
   }
  ]
 }
