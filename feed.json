@@ -1,21 +1,165 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-09",
  "items": [
   {
-   "title": "Inside a successful AWS European Sovereign Cloud exercise to demonstrate independent operation",
-   "url": "https://aws.amazon.com/blogs/security/inside-a-successful-aws-european-sovereign-cloud-exercise-to-demonstrate-independent-operation/",
+   "title": "Lima v2.3: Native on Windows, VMnet on Linux, and menu TUI",
+   "url": "https://www.cncf.io/blog/2026/11/08/lima-v2-3-native-on-windows-vmnet-on-linux-and-menu-tui/",
+   "source": "CNCF Blog",
+   "category": "k8s",
+   "kind": "news",
+   "date": "2026-11-08"
+  },
+  {
+   "title": "We organized Sustainability Month. Here’s what we learned. 🌱",
+   "url": "https://www.cncf.io/blog/2026/11/07/we-organized-sustainability-month-heres-what-we-learned-%f0%9f%8c%b1/",
+   "source": "CNCF Blog",
+   "category": "k8s",
+   "kind": "news",
+   "date": "2026-11-07"
+  },
+  {
+   "title": "Faster LLM inference startup: What you need to know",
+   "url": "https://www.cncf.io/blog/2026/11/06/faster-llm-inference-startup-what-you-need-to-know/",
+   "source": "CNCF Blog",
+   "category": "k8s",
+   "kind": "news",
+   "date": "2026-11-06"
+  },
+  {
+   "title": "Addressing protocol security gaps in multi-tenant Kubernetes",
+   "url": "https://aws.amazon.com/blogs/security/addressing-protocol-security-gaps-in-multi-tenant-kubernetes/",
+   "source": "AWS Security Blog",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-11-06"
+  },
+  {
+   "title": "AWS Security Hub now provides an SBOM inventory for your compute resources",
+   "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/",
+   "source": "AWS What's New",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-11-06"
+  },
+  {
+   "title": "OpenTofu v1.13.9",
+   "url": "https://github.com/opentofu/opentofu/releases/tag/v1.13.9",
+   "source": "OpenTofu",
+   "category": "iac",
+   "kind": "release",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "OpenTofu v1.12.12",
+   "url": "https://github.com/opentofu/opentofu/releases/tag/v1.12.12",
+   "source": "OpenTofu",
+   "category": "iac",
+   "kind": "release",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "Introducing AWS account access manager: IAM role flexibility with centralized workforce access",
+   "url": "https://aws.amazon.com/blogs/security/introducing-aws-account-access-manager-iam-role-flexibility-with-centralized-workforce-access/",
+   "source": "AWS Security Blog",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "IAM Roles Anywhere now supports automatic certificate revocation checking",
+   "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-cdp/",
+   "source": "AWS What's New",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "AWS Security Hub Network Scanning now available in AWS GovCloud (US)",
+   "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-network-scanning-govcloud/",
+   "source": "AWS What's New",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "Trivy v0.76.2",
+   "url": "https://github.com/aquasecurity/trivy/releases/tag/v0.76.2",
+   "source": "Trivy",
+   "category": "sec",
+   "kind": "release",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "OpenTofu v1.13.8",
+   "url": "https://github.com/opentofu/opentofu/releases/tag/v1.13.8",
+   "source": "OpenTofu",
+   "category": "iac",
+   "kind": "release",
+   "date": "2026-11-04"
+  },
+  {
+   "title": "Argo CD v3.6.1",
+   "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.6.1",
+   "source": "Argo CD",
+   "category": "cicd",
+   "kind": "release",
+   "date": "2026-11-04"
+  },
+  {
+   "title": "Argo CD gitops-engine/v3.6.1",
+   "url": "https://github.com/argoproj/argo-cd/releases/tag/gitops-engine%2Fv3.6.1",
+   "source": "Argo CD",
+   "category": "cicd",
+   "kind": "release",
+   "date": "2026-11-04"
+  },
+  {
+   "title": "Argo Rollouts v1.10.2",
+   "url": "https://github.com/argoproj/argo-rollouts/releases/tag/v1.10.2",
+   "source": "Argo Rollouts",
+   "category": "cicd",
+   "kind": "release",
+   "date": "2026-11-04"
+  },
+  {
+   "title": "Argo Rollouts v1.9.3",
+   "url": "https://github.com/argoproj/argo-rollouts/releases/tag/v1.9.3",
+   "source": "Argo Rollouts",
+   "category": "cicd",
+   "kind": "release",
+   "date": "2026-11-04"
+  },
+  {
+   "title": "Introducing IBM Cloud Secrets Manager Vault Dedicated: HashiCorp Vault Enterprise, managed by IBM",
+   "url": "https://www.hashicorp.com/blog/introducing-ibm-cloud-secrets-manager-vault-dedicated",
+   "source": "HashiCorp Blog",
+   "category": "iac",
+   "kind": "news",
+   "date": "2026-11-03"
+  },
+  {
+   "title": "Argo CD v3.6.0",
+   "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.6.0",
+   "source": "Argo CD",
+   "category": "cicd",
+   "kind": "release",
+   "date": "2026-11-03"
+  },
+  {
+   "title": "Beyond DKIM key rotation: understanding email replay attacks",
+   "url": "https://aws.amazon.com/blogs/security/beyond-dkim-key-rotation-understanding-email-replay-attacks/",
    "source": "AWS Security Blog",
    "category": "aws",
    "kind": "news",
    "date": "2026-11-02"
   },
   {
-   "title": "KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips",
-   "url": "https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips/",
-   "source": "CNCF Blog",
-   "category": "k8s",
-   "kind": "news",
-   "date": "2026-10-30"
+   "title": "Backstage v1.56.3",
+   "url": "https://github.com/backstage/backstage/releases/tag/v1.56.3",
+   "source": "Backstage",
+   "category": "platform",
+   "kind": "release",
+   "date": "2026-11-02"
   },
   {
    "title": "From Working Group to SIG Architecture: spotlight on AI Conformance",
@@ -23,38 +167,6 @@
    "source": "Kubernetes Blog",
    "category": "k8s",
    "kind": "news",
-   "date": "2026-10-29"
-  },
-  {
-   "title": "The boundary problem in agentic AI is a platform problem",
-   "url": "https://www.cncf.io/blog/2026/10/29/the-boundary-problem-in-agentic-ai-is-a-platform-problem/",
-   "source": "CNCF Blog",
-   "category": "k8s",
-   "kind": "news",
-   "date": "2026-10-29"
-  },
-  {
-   "title": "OpenTofu v1.13.5",
-   "url": "https://github.com/opentofu/opentofu/releases/tag/v1.13.5",
-   "source": "OpenTofu",
-   "category": "iac",
-   "kind": "release",
-   "date": "2026-10-29"
-  },
-  {
-   "title": "OpenTofu v1.13.4",
-   "url": "https://github.com/opentofu/opentofu/releases/tag/v1.13.4",
-   "source": "OpenTofu",
-   "category": "iac",
-   "kind": "release",
-   "date": "2026-10-29"
-  },
-  {
-   "title": "OpenTofu v1.13.3",
-   "url": "https://github.com/opentofu/opentofu/releases/tag/v1.13.3",
-   "source": "OpenTofu",
-   "category": "iac",
-   "kind": "release",
    "date": "2026-10-29"
   },
   {
@@ -66,30 +178,6 @@
    "date": "2026-10-29"
   },
   {
-   "title": "Volcano v1.16 Released: NamespaceQueue, fairshare, and a broader HyperNode ecosystem",
-   "url": "https://www.cncf.io/blog/2026/10/28/volcano-v1-16-released-namespacequeue-fairshare-and-a-broader-hypernode-ecosystem/",
-   "source": "CNCF Blog",
-   "category": "k8s",
-   "kind": "news",
-   "date": "2026-10-28"
-  },
-  {
-   "title": "Build shared workflows for your team with Copilot Automations",
-   "url": "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations",
-   "source": "GitHub Changelog",
-   "category": "cicd",
-   "kind": "news",
-   "date": "2026-10-28"
-  },
-  {
-   "title": "AWS IAM Identity Center's Identity Store now supports change notifications through Amazon EventBridge",
-   "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-change-notifications/",
-   "source": "AWS What's New",
-   "category": "aws",
-   "kind": "news",
-   "date": "2026-10-28"
-  },
-  {
    "title": "Announcing the Workload Conformance Working Group",
    "url": "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/",
    "source": "Kubernetes Blog",
@@ -98,18 +186,18 @@
    "date": "2026-10-27"
   },
   {
-   "title": "Introducing Route 53 Resolved IP Validation for AWS Network Firewall",
-   "url": "https://aws.amazon.com/blogs/security/introducing-route-53-resolved-ip-validation-for-aws-network-firewall/",
-   "source": "AWS Security Blog",
-   "category": "aws",
+   "title": "Building Self-Service into Terraform: Introducing Terraform Developer Portal (Public Preview)",
+   "url": "https://www.hashicorp.com/blog/introducing-terraform-developer-portal",
+   "source": "HashiCorp Blog",
+   "category": "iac",
    "kind": "news",
    "date": "2026-10-27"
   },
   {
-   "title": "AWS becomes first CSP to complete the Cloud High profile assessment with 172 services and features in scope",
-   "url": "https://aws.amazon.com/blogs/security/aws-becomes-first-csp-to-complete-the-cloud-high-profile-assessment-with-172-services-and-features-in-scope/",
-   "source": "AWS Security Blog",
-   "category": "aws",
+   "title": "Terraform advances infrastructure lifecycle management for the agentic era",
+   "url": "https://www.hashicorp.com/blog/terraform-advances-infrastructure-lifecycle-management-for-the-agentic-era",
+   "source": "HashiCorp Blog",
+   "category": "iac",
    "kind": "news",
    "date": "2026-10-27"
   },
@@ -119,14 +207,6 @@
    "source": "Flux",
    "category": "cicd",
    "kind": "release",
-   "date": "2026-10-26"
-  },
-  {
-   "title": "AWS IAM Identity Center now supports cross-Region trusted identity propagation",
-   "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-iam-identity-center-cross-region-tip/",
-   "source": "AWS What's New",
-   "category": "aws",
-   "kind": "news",
    "date": "2026-10-26"
   },
   {
@@ -202,14 +282,6 @@
    "date": "2026-10-22"
   },
   {
-   "title": "Argo CD v3.3.18",
-   "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.3.18",
-   "source": "Argo CD",
-   "category": "cicd",
-   "kind": "release",
-   "date": "2026-10-22"
-  },
-  {
    "title": "Backstage v1.56.2",
    "url": "https://github.com/backstage/backstage/releases/tag/v1.56.2",
    "source": "Backstage",
@@ -218,40 +290,8 @@
    "date": "2026-10-22"
   },
   {
-   "title": "Argo CD v3.4.12",
-   "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.4.12",
-   "source": "Argo CD",
-   "category": "cicd",
-   "kind": "release",
-   "date": "2026-10-21"
-  },
-  {
-   "title": "Argo CD v3.3.17",
-   "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.3.17",
-   "source": "Argo CD",
-   "category": "cicd",
-   "kind": "release",
-   "date": "2026-10-21"
-  },
-  {
-   "title": "Amazon S3 server access log delivery to Amazon CloudWatch Logs now available in five additional AWS Regions",
-   "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-server-access-logs-cloudwatch-logs-regions/",
-   "source": "AWS What's New",
-   "category": "aws",
-   "kind": "news",
-   "date": "2026-10-21"
-  },
-  {
    "title": "Backstage v1.56.1",
    "url": "https://github.com/backstage/backstage/releases/tag/v1.56.1",
-   "source": "Backstage",
-   "category": "platform",
-   "kind": "release",
-   "date": "2026-10-21"
-  },
-  {
-   "title": "Backstage v1.54.10",
-   "url": "https://github.com/backstage/backstage/releases/tag/v1.54.10",
    "source": "Backstage",
    "category": "platform",
    "kind": "release",
@@ -322,22 +362,6 @@
    "date": "2026-10-12"
   },
   {
-   "title": "Argo Rollouts v1.9.2",
-   "url": "https://github.com/argoproj/argo-rollouts/releases/tag/v1.9.2",
-   "source": "Argo Rollouts",
-   "category": "cicd",
-   "kind": "release",
-   "date": "2026-10-12"
-  },
-  {
-   "title": "Argo Rollouts v1.8.5",
-   "url": "https://github.com/argoproj/argo-rollouts/releases/tag/v1.8.5",
-   "source": "Argo Rollouts",
-   "category": "cicd",
-   "kind": "release",
-   "date": "2026-10-12"
-  },
-  {
    "title": "K8sGPT v0.4.40",
    "url": "https://github.com/k8sgpt-ai/k8sgpt/releases/tag/v0.4.40",
    "source": "K8sGPT",
@@ -352,38 +376,6 @@
    "category": "cicd",
    "kind": "release",
    "date": "2026-10-01"
-  },
-  {
-   "title": "Trivy v0.75.0",
-   "url": "https://github.com/aquasecurity/trivy/releases/tag/v0.75.0",
-   "source": "Trivy",
-   "category": "sec",
-   "kind": "release",
-   "date": "2026-10-01"
-  },
-  {
-   "title": "Terraform 1.16 completes Actions lifecycles and brings imports into child modules",
-   "url": "https://www.hashicorp.com/blog/terraform-116-completes-actions-lifecycles-and-brings-imports-into-child-modules",
-   "source": "HashiCorp Blog",
-   "category": "iac",
-   "kind": "news",
-   "date": "2026-09-28"
-  },
-  {
-   "title": "Terraform provider for Google Cloud 8.0 now generally available",
-   "url": "https://www.hashicorp.com/blog/terraform-provider-for-google-cloud-80-now-generally-available",
-   "source": "HashiCorp Blog",
-   "category": "iac",
-   "kind": "news",
-   "date": "2026-09-23"
-  },
-  {
-   "title": "Falco 0.45.0",
-   "url": "https://github.com/falcosecurity/falco/releases/tag/0.45.0",
-   "source": "Falco",
-   "category": "sec",
-   "kind": "release",
-   "date": "2026-09-21"
   }
  ]
 }
