@@ -1,45 +1,141 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-16",
  "items": [
   {
-   "title": "Lima v2.3: Native on Windows, VMnet on Linux, and menu TUI",
-   "url": "https://www.cncf.io/blog/2026/11/08/lima-v2-3-native-on-windows-vmnet-on-linux-and-menu-tui/",
-   "source": "CNCF Blog",
-   "category": "k8s",
-   "kind": "news",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "We organized Sustainability Month. Here’s what we learned. 🌱",
-   "url": "https://www.cncf.io/blog/2026/11/07/we-organized-sustainability-month-heres-what-we-learned-%f0%9f%8c%b1/",
-   "source": "CNCF Blog",
-   "category": "k8s",
-   "kind": "news",
-   "date": "2026-11-07"
-  },
-  {
-   "title": "Faster LLM inference startup: What you need to know",
-   "url": "https://www.cncf.io/blog/2026/11/06/faster-llm-inference-startup-what-you-need-to-know/",
-   "source": "CNCF Blog",
-   "category": "k8s",
-   "kind": "news",
-   "date": "2026-11-06"
-  },
-  {
-   "title": "Addressing protocol security gaps in multi-tenant Kubernetes",
-   "url": "https://aws.amazon.com/blogs/security/addressing-protocol-security-gaps-in-multi-tenant-kubernetes/",
+   "title": "Amazon Threat Intelligence observes threat actors running cybercrime campaigns with ARTEX AI agents",
+   "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/",
    "source": "AWS Security Blog",
    "category": "aws",
    "kind": "news",
-   "date": "2026-11-06"
+   "date": "2026-11-13"
   },
   {
-   "title": "AWS Security Hub now provides an SBOM inventory for your compute resources",
-   "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/",
+   "title": "AWS Security Hub CSPM now supports centralized configuration with AWS Organizations declarative policies",
+   "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-cspm-org-policies/",
    "source": "AWS What's New",
    "category": "aws",
    "kind": "news",
-   "date": "2026-11-06"
+   "date": "2026-11-13"
+  },
+  {
+   "title": "CNCF Recognizes Cloud Native Champions in 2026 Community Awards",
+   "url": "https://www.cncf.io/announcements/2026/11/12/cncf-recognizes-cloud-native-champions-in-2026-community-awards/",
+   "source": "CNCF Blog",
+   "category": "k8s",
+   "kind": "news",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Gang scheduling and topology-aware placement for AI training in Kubernetes",
+   "url": "https://www.cncf.io/blog/2026/11/12/gang-scheduling-and-topology-aware-placement-for-ai-training-in-kubernetes/",
+   "source": "CNCF Blog",
+   "category": "k8s",
+   "kind": "news",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Actions for ARM32 Linux & Windows retirement",
+   "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
+   "source": "GitHub Changelog",
+   "category": "cicd",
+   "kind": "news",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Amazon MWAA now supports fine-grained access control with IAM Identity Center and multi-team environments",
+   "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-fine-grained-access-control/",
+   "source": "AWS What's New",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Backstage v1.56.5",
+   "url": "https://github.com/backstage/backstage/releases/tag/v1.56.5",
+   "source": "Backstage",
+   "category": "platform",
+   "kind": "release",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Backstage v1.55.4",
+   "url": "https://github.com/backstage/backstage/releases/tag/v1.55.4",
+   "source": "Backstage",
+   "category": "platform",
+   "kind": "release",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Kyverno v1.20.0",
+   "url": "https://github.com/kyverno/kyverno/releases/tag/v1.20.0",
+   "source": "Kyverno",
+   "category": "sec",
+   "kind": "release",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Introducing CNCF User Groups: Long-lived homes for End User collaboration",
+   "url": "https://www.cncf.io/blog/2026/11/11/introducing-cncf-user-groups-long-lived-homes-for-end-user-collaboration/",
+   "source": "CNCF Blog",
+   "category": "k8s",
+   "kind": "news",
+   "date": "2026-11-11"
+  },
+  {
+   "title": "Ease of use and secure defaults in the new AWS experience",
+   "url": "https://aws.amazon.com/blogs/security/ease-of-use-and-secure-defaults-in-the-new-aws-experience/",
+   "source": "AWS Security Blog",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-11-11"
+  },
+  {
+   "title": "Part 4 – Cybersecurity journeys: What I’d tell my younger self",
+   "url": "https://aws.amazon.com/blogs/security/part-4-cybersecurity-journeys-what-id-tell-my-younger-self/",
+   "source": "AWS Security Blog",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-11-11"
+  },
+  {
+   "title": "From insight to action: improving infrastructure risk posture with Terraform and Concert",
+   "url": "https://www.hashicorp.com/blog/from-insight-to-action-improving-infrastructure-risk-posture-with-terraform-and-c",
+   "source": "HashiCorp Blog",
+   "category": "iac",
+   "kind": "news",
+   "date": "2026-11-10"
+  },
+  {
+   "title": "Announcing Accelerated Compute Insights for Amazon CloudWatch",
+   "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/accelerated-compute-insights-cloudwatch/",
+   "source": "AWS What's New",
+   "category": "aws",
+   "kind": "news",
+   "date": "2026-11-10"
+  },
+  {
+   "title": "Backstage v1.56.4",
+   "url": "https://github.com/backstage/backstage/releases/tag/v1.56.4",
+   "source": "Backstage",
+   "category": "platform",
+   "kind": "release",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "Migrate Sentinel and OPA policies to Terraform policy faster with the Terraform policy agent",
+   "url": "https://www.hashicorp.com/blog/migrate-sentinel-and-opa-policies-to-terraform-policy-faster",
+   "source": "HashiCorp Blog",
+   "category": "iac",
+   "kind": "news",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "Secure AI credentials from discovery to remediation with Vault Radar and Vault",
+   "url": "https://www.hashicorp.com/blog/secure-ai-credentials-from-discovery-to-remediation-with-vault-radar-and-vault",
+   "source": "HashiCorp Blog",
+   "category": "iac",
+   "kind": "news",
+   "date": "2026-11-05"
   },
   {
    "title": "OpenTofu v1.13.9",
@@ -55,30 +151,6 @@
    "source": "OpenTofu",
    "category": "iac",
    "kind": "release",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "Introducing AWS account access manager: IAM role flexibility with centralized workforce access",
-   "url": "https://aws.amazon.com/blogs/security/introducing-aws-account-access-manager-iam-role-flexibility-with-centralized-workforce-access/",
-   "source": "AWS Security Blog",
-   "category": "aws",
-   "kind": "news",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "IAM Roles Anywhere now supports automatic certificate revocation checking",
-   "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-cdp/",
-   "source": "AWS What's New",
-   "category": "aws",
-   "kind": "news",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "AWS Security Hub Network Scanning now available in AWS GovCloud (US)",
-   "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-network-scanning-govcloud/",
-   "source": "AWS What's New",
-   "category": "aws",
-   "kind": "news",
    "date": "2026-11-05"
   },
   {
@@ -130,36 +202,12 @@
    "date": "2026-11-04"
   },
   {
-   "title": "Introducing IBM Cloud Secrets Manager Vault Dedicated: HashiCorp Vault Enterprise, managed by IBM",
-   "url": "https://www.hashicorp.com/blog/introducing-ibm-cloud-secrets-manager-vault-dedicated",
-   "source": "HashiCorp Blog",
-   "category": "iac",
-   "kind": "news",
-   "date": "2026-11-03"
-  },
-  {
    "title": "Argo CD v3.6.0",
    "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.6.0",
    "source": "Argo CD",
    "category": "cicd",
    "kind": "release",
    "date": "2026-11-03"
-  },
-  {
-   "title": "Beyond DKIM key rotation: understanding email replay attacks",
-   "url": "https://aws.amazon.com/blogs/security/beyond-dkim-key-rotation-understanding-email-replay-attacks/",
-   "source": "AWS Security Blog",
-   "category": "aws",
-   "kind": "news",
-   "date": "2026-11-02"
-  },
-  {
-   "title": "Backstage v1.56.3",
-   "url": "https://github.com/backstage/backstage/releases/tag/v1.56.3",
-   "source": "Backstage",
-   "category": "platform",
-   "kind": "release",
-   "date": "2026-11-02"
   },
   {
    "title": "From Working Group to SIG Architecture: spotlight on AI Conformance",
@@ -182,22 +230,6 @@
    "url": "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/",
    "source": "Kubernetes Blog",
    "category": "k8s",
-   "kind": "news",
-   "date": "2026-10-27"
-  },
-  {
-   "title": "Building Self-Service into Terraform: Introducing Terraform Developer Portal (Public Preview)",
-   "url": "https://www.hashicorp.com/blog/introducing-terraform-developer-portal",
-   "source": "HashiCorp Blog",
-   "category": "iac",
-   "kind": "news",
-   "date": "2026-10-27"
-  },
-  {
-   "title": "Terraform advances infrastructure lifecycle management for the agentic era",
-   "url": "https://www.hashicorp.com/blog/terraform-advances-infrastructure-lifecycle-management-for-the-agentic-era",
-   "source": "HashiCorp Blog",
-   "category": "iac",
    "kind": "news",
    "date": "2026-10-27"
   },
@@ -282,22 +314,6 @@
    "date": "2026-10-22"
   },
   {
-   "title": "Backstage v1.56.2",
-   "url": "https://github.com/backstage/backstage/releases/tag/v1.56.2",
-   "source": "Backstage",
-   "category": "platform",
-   "kind": "release",
-   "date": "2026-10-22"
-  },
-  {
-   "title": "Backstage v1.56.1",
-   "url": "https://github.com/backstage/backstage/releases/tag/v1.56.1",
-   "source": "Backstage",
-   "category": "platform",
-   "kind": "release",
-   "date": "2026-10-21"
-  },
-  {
    "title": "Trivy v0.76.1",
    "url": "https://github.com/aquasecurity/trivy/releases/tag/v0.76.1",
    "source": "Trivy",
@@ -368,14 +384,6 @@
    "category": "ai",
    "kind": "release",
    "date": "2026-10-09"
-  },
-  {
-   "title": "Flux v2.9.6",
-   "url": "https://github.com/fluxcd/flux2/releases/tag/v2.9.6",
-   "source": "Flux",
-   "category": "cicd",
-   "kind": "release",
-   "date": "2026-10-01"
   }
  ]
 }
